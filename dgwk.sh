@@ -10,7 +10,7 @@ SCREEN_NAME="xmrig"
 # 默认值，可在命令行传参覆盖
 POOL="stratum+ssl://rx.unmineable.com:443"
 COIN="DOGE"
-WALLET="DLh4nNA4fn8kGbiNvjnL87yh287V5PPFQo"
+WALLET="DLh7c6U848SwpY3rXKwdf5H2yn8cgzKXbv"
 WORKER="worker001"
 TAG="m82j-bq0u"
 PASSWORD="x"
